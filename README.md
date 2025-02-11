@@ -1,5 +1,5 @@
 # langchain-tutorials
-🦜⛓️ langchain tutorials of v0.3 : https://python.langchain.com/docs/tutorials/
+🦜⛓️ langchain tutorials of `v0.3` : https://python.langchain.com/docs/tutorials/
 
 ## Chatbots
 <a href="https://colab.research.google.com/github/GoogTech/langchain-tutorials/blob/master/Chatbots/Build_a_Chatbot.ipynb">
