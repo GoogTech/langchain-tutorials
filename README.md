@@ -9,7 +9,7 @@
 Build a chatbot that incorporates memory.
 
 ## Agents
-<a href="https://colab.research.google.com/github/GoogTech/langchain-tutorials/blob/master/Agents/">
+<a href="https://colab.research.google.com/github/GoogTech/langchain-tutorials/blob/master/Agents/Build_an_Agent.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 </br>
