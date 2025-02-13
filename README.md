@@ -16,14 +16,14 @@ Build a chatbot that incorporates memory.
 Build an agent that interacts with external tools.
 
 ## Retrieval Augmented Generation (RAG) Part 1
-<a href="https://colab.research.google.com/github/GoogTech/langchain-tutorials/blob/master/Retrieval Augmented Generation (RAG) Part 1/">
+<a href="https://colab.research.google.com/github/GoogTech/langchain-tutorials/blob/master/Retrieval Augmented Generation (RAG) Part 1/Build_an_RAG_1.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 </br>
 Build an application that uses your own documents to inform its responses.
 
 ## Retrieval Augmented Generation (RAG) Part 2
-<a href="https://colab.research.google.com/github/GoogTech/langchain-tutorials/blob/master/Retrieval Augmented Generation (RAG) Part 2/">
+<a href="https://colab.research.google.com/github/GoogTech/langchain-tutorials/blob/master/Retrieval Augmented Generation (RAG) Part 2/Build_an_RAG_2.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 </br>
